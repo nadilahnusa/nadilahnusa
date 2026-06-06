@@ -167,6 +167,46 @@
 
 <br/>
 
+## `$` &nbsp; Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📱 DidikApp</h3>
+      <p><i>Internship Review Platform — Android App</i></p>
+      <p>Aplikasi Android untuk review dan rating tempat magang. Mahasiswa bisa berbagi pengalaman magang mereka agar bisa jadi referensi buat yang lain.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-FFB6C1?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/SQLite-FFB6C1?style=flat-square&logo=sqlite&logoColor=003B57" />
+        <img src="https://img.shields.io/badge/Android-FFB6C1?style=flat-square&logo=android&logoColor=3DDC84" />
+      </p>
+      <a href="https://github.com/nadilahnusa/didik-app">
+        <img src="https://img.shields.io/badge/View_Repo-E8A0BF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌱 PupukKita</h3>
+      <p><i>Fertilizer Platform — Web App</i></p>
+      <p>Website berbasis Laravel untuk membantu petani atau pengguna dalam mengelola informasi seputar pupuk secara mudah dan efisien.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-E8A0BF?style=flat-square&logo=laravel&logoColor=FF2D20" />
+        <img src="https://img.shields.io/badge/PHP-E8A0BF?style=flat-square&logo=php&logoColor=777BB4" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-E8A0BF?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+        <img src="https://img.shields.io/badge/MySQL-E8A0BF?style=flat-square&logo=mysql&logoColor=4479A1" />
+      </p>
+      <a href="https://github.com/nadilahnusa/pupukita_web_laravel">
+        <img src="https://img.shields.io/badge/View_Repo-C9A0DC?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br/>
+
+---
+
+
+<br/>
+
 ## `$` &nbsp; GitHub Cartography
 
 <div align="center">
@@ -197,6 +237,19 @@
 
 <br/>
 
+---
+
+<br/>
+
+## `$` &nbsp; Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/E8A0BF/nadilahnusa" alt="Contribution Calendar" width="100%" />
+
+</div>
+
+<br/>
 
 ---
 
@@ -232,7 +285,7 @@ to fellow learners:
 
 <br/>
 
-<h4>Nadilah Nur Salsabilah &nbsp;·&nbsp; Sistem Informasi UPNVJT</h4>
+<h4>Nadilah Nur Salsabilah &nbsp;·&nbsp; she/her &nbsp;·&nbsp; Sistem Informasi UPNVJT</h4>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A0DC,50:E8A0BF,100:FFC0CB&height=100&section=footer&text=&fontSize=1" width="100%" />
 
