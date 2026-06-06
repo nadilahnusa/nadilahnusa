@@ -241,20 +241,6 @@
 
 <br/>
 
-## `$` &nbsp; Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/E8A0BF/nadilahnusa" alt="Contribution Calendar" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- ┌──────────────── Console Closing ──────────────────────────────┐ -->
 
 <div align="center">
